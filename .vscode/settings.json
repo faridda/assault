@@ -1,0 +1,8 @@
+{
+    "python.pipenvPath": "/home/ubuntu/.local/bin/pipenv",
+    "python.pythonPath": "/home/ubuntu/.local/share/virtualenvs/assault-zEGq5MKY/bin/python",
+    "python.formatting.blackPath": "/home/ubuntu/.local/share/virtualenvs/assault-zEGq5MKY/bin/black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black"
+}
